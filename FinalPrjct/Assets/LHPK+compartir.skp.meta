@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: 170ca3de519f548efa125316b3f5d48f
+timeCreated: 1461260200
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000
+  assetHash:
+    serializedVersion: 2
+    Hash: e2647dfac8e7b8f5291702a239fdf8a8
+  longitude: 2.183
+  latitude: 41.383
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 8.513013, y: 3.5632603, z: 6.9557166}
+      lookAt: {x: -16073.861, y: -10017.858, z: -998.8293}
+      up: {x: -0.52708447, y: 0.84917337, z: -0.03296364}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1a
+    100002: 1a 1
+    100004: 1a 10
+    100006: 1a 11
+    100008: 1a 12
+    100010: 1a 13
+    100012: 1a 14
+    100014: 1a 15
+    100016: 1a 16
+    100018: 1a 17
+    100020: 1a 18
+    100022: 1a 19
+    100024: 1a 2
+    100026: 1a 20
+    100028: 1a 21
+    100030: 1a 22
+    100032: 1a 23
+    100034: 1a 24
+    100036: 1a 25
+    100038: 1a 26
+    100040: 1a 27
+    100042: 1a 28
+    100044: 1a 29
+    100046: 1a 3
+    100048: 1a 30
+    100050: 1a 31
+    100052: 1a 32
+    100054: 1a 33
+    100056: 1a 34
+    100058: 1a 35
+    100060: 1a 36
+    100062: 1a 37
+    100064: 1a 38
+    100066: 1a 39
+    100068: 1a 4
+    100070: 1a 40
+    100072: 1a 41
+    100074: 1a 42
+    100076: 1a 43
+    100078: 1a 44
+    100080: 1a 45
+    100082: 1a 46
+    100084: 1a 47
+    100086: 1a 5
+    100088: 1a 6
+    100090: 1a 7
+    100092: 1a 8
+    100094: 1a 9
+    100096: 1b
+    100098: 1b 1
+    100100: 1b 10
+    100102: 1b 11
+    100104: 1b 12
+    100106: 1b 13
+    100108: 1b 14
+    100110: 1b 15
+    100112: 1b 16
+    100114: 1b 17
+    100116: 1b 18
+    100118: 1b 19
+    100120: 1b 2
+    100122: 1b 20
+    100124: 1b 21
+    100126: 1b 22
+    100128: 1b 23
+    100130: 1b 3
+    100132: 1b 4
+    100134: 1b 5
+    100136: 1b 6
+    100138: 1b 7
+    100140: 1b 8
+    100142: 1b 9
+    100144: 2h
+    100146: 2h 1
+    100148: 2h 2
+    100150: 2h 3
+    100152: 2h 4
+    100154: 2h 5
+    100156: 2v
+    100158: 2v 1
+    100160: Almacen
+    100162: Caixa Registradora
+    100164: clave la hoguera
+    100166: clave la hoguera 1
+    100168: clave la hoguera 2
+    100170: clave la hoguera 3
+    100172: CORTINA SEDA
+    100174: Cortina tecido
+    100176: d&b E12
+    100178: d&b E12 1
+    100180: d&b E12 2
+    100182: d&b E12 3
+    100184: Door handle
+    100186: Door-closer
+    100188: Door-closer 1
+    100190: door-handle
+    100192: Door-latch
+    100194: Door-latch 1
+    100196: Door-lever
+    100198: Door-lever 1
+    100200: Door-lever 2
+    100202: Door-lever 3
+    100204: Door-seals
+    100206: Door-seals 1
+    100208: DoorHinge 5knuckle3.5inch
+    100210: DoorHinge 5knuckle3.5inch 1
+    100212: DoorHinge 5knuckle3.5inch 2
+    100214: DoorHinge 5knuckle3.5inch 3
+    100216: DoorHinge 5knuckle3.5inch 4
+    100218: DoorHinge 5knuckle3.5inch 5
+    100220: el karaoke
+    100222: Faceplate w/ locking pin notch
+    100224: Faceplate w/ locking pin notch 1
+    100226: Glass door
+    100228: Group 14
+    100230: Group 16
+    100232: Group 179
+    100234: Group 181
+    100236: Group 197
+    100238: Group 201
+    100240: Group 255
+    100242: Group 265
+    100244: Group 270
+    100246: Group 272
+    100248: Group 297
+    100250: Group 300
+    100252: Group 302
+    100254: Group 304
+    100256: Group 306
+    100258: Group 315
+    100260: Group 317
+    100262: Group 319
+    100264: Group 321
+    100266: Group 324
+    100268: Group 326
+    100270: Group 328
+    100272: Group 330
+    100274: Group 332
+    100276: Group 342
+    100278: Group 344
+    100280: Group 346
+    100282: Group 348
+    100284: Group 370
+    100286: Group 373
+    100288: Group 375
+    100290: Group 377
+    100292: Group 379
+    100294: Group 388
+    100296: Group 390
+    100298: Group 392
+    100300: Group 394
+    100302: Group 397
+    100304: Group 399
+    100306: Group 401
+    100308: Group 403
+    100310: Group 405
+    100312: Group 415
+    100314: Group 417
+    100316: Group 419
+    100318: Group 421
+    100320: Group 440
+    100322: Group 442
+    100324: guitarra ok
+    100326: High Stool
+    100328: HMK Frame
+    100330: HMK Frame 1
+    100332: Interior commercial office door.
+    100334: Interior commercial office door. 1
+    100336: la hoguera
+    100338: la hoguera#1
+    100340: Lap Top style apple
+    100342: Latch
+    100344: Latch - Assembly (2 3_4in throw)
+    100346: Latch - Assembly (2 3_4in throw) 1
+    100348: Latch - Faceplate
+    100350: Latch - Faceplate 1
+    100352: Latch - Faceplate with locking pin
+    100354: Latch - Faceplate with locking pin 1
+    100356: Latch - Subassembly
+    100358: Latch - Subassembly 1
+    100360: Latch 1
+    100362: //RootNode
+    100364: Locking Pin
+    100366: Locking Pin 1
+    100368: manilla
+    100370: Mesa alta de bar mod.4036
+    100372: Mesa alta de bar mod.4036 1
+    100374: Mesa alta de bar mod.4036 2
+    100376: Metal Stool
+    100378: Metal Stool 1
+    100380: Metal Stool 1_MeshPart0
+    100382: Metal Stool 1_MeshPart1
+    100384: Metal Stool 1_MeshPart2
+    100386: Metal Stool 2
+    100388: Metal Stool 2_MeshPart0
+    100390: Metal Stool 2_MeshPart1
+    100392: Metal Stool 2_MeshPart2
+    100394: Metal Stool 3
+    100396: Metal Stool 3_MeshPart0
+    100398: Metal Stool 3_MeshPart1
+    100400: Metal Stool 3_MeshPart2
+    100402: Metal Stool 4
+    100404: Metal Stool 4_MeshPart0
+    100406: Metal Stool 4_MeshPart1
+    100408: Metal Stool 4_MeshPart2
+    100410: Metal Stool 5
+    100412: Metal Stool 5_MeshPart0
+    100414: Metal Stool 5_MeshPart1
+    100416: Metal Stool 5_MeshPart2
+    100418: Metal Stool 6
+    100420: Metal Stool 6_MeshPart0
+    100422: Metal Stool 6_MeshPart1
+    100424: Metal Stool 6_MeshPart2
+    100426: Metal Stool_MeshPart0
+    100428: Metal Stool_MeshPart1
+    100430: Metal Stool_MeshPart2
+    100432: plancha
+    100434: pub - karaoke
+    100436: Screw Head - Philips 0.25in Recessed
+    100438: Screw Head - Philips 0.25in Recessed 1
+    100440: Screw Head - Philips 0.25in Recessed 2
+    100442: Screw Head - Philips 0.25in Recessed 3
+    100444: Screw Head - Philips 0.25in Recessed 4
+    100446: Screw Head - Philips 0.25in Recessed 5
+    100448: Screw Head - Philips 0.25in Recessed 6
+    100450: Screw Head - Philips 0.25in Recessed 7
+    100452: Simple Barstool
+    100454: Simple Barstool#1
+    100456: Simple Barstool#1 1
+    100458: Simple Barstool#1 2
+    100460: Simple Barstool#2
+    100462: Simple Barstool#3
+    100464: Simple Barstool#3 1
+    100466: Simple Barstool#4
+    100468: Simple Barstool#4 1
+    100470: Simple Barstool#4 2
+    100472: Simple Barstool#5
+    100474: Simple Barstool#5 1
+    100476: Simple Barstool#5 2
+    100478: Simple Barstool#5 3
+    100480: Simple Barstool#6
+    100482: Simple Barstool#6 1
+    100484: Simple Barstool#7
+    100486: Simple Barstool#7 1
+    100488: Simple Barstool#7 2
+    100490: Simple Barstool#7 3
+    100492: Simple Barstool#8
+    100494: Simple Barstool#8 1
+    100496: Simple Barstool#8 2
+    100498: skp399
+    100500: Strike Plate
+    100502: Strike Plate 1
+    100504: Strikeplate, Door Latch
+    100506: Strikeplate, Door Latch 1
+    100508: Taburete
+    100510: Taburete 1
+    100512: tul
+    100514: tul_MeshPart0
+    100516: tul_MeshPart1
+    100518: tul_MeshPart2
+    100520: YAMAHA MG82CX
+    400000: 1a
+    400002: 1a 1
+    400004: 1a 10
+    400006: 1a 11
+    400008: 1a 12
+    400010: 1a 13
+    400012: 1a 14
+    400014: 1a 15
+    400016: 1a 16
+    400018: 1a 17
+    400020: 1a 18
+    400022: 1a 19
+    400024: 1a 2
+    400026: 1a 20
+    400028: 1a 21
+    400030: 1a 22
+    400032: 1a 23
+    400034: 1a 24
+    400036: 1a 25
+    400038: 1a 26
+    400040: 1a 27
+    400042: 1a 28
+    400044: 1a 29
+    400046: 1a 3
+    400048: 1a 30
+    400050: 1a 31
+    400052: 1a 32
+    400054: 1a 33
+    400056: 1a 34
+    400058: 1a 35
+    400060: 1a 36
+    400062: 1a 37
+    400064: 1a 38
+    400066: 1a 39
+    400068: 1a 4
+    400070: 1a 40
+    400072: 1a 41
+    400074: 1a 42
+    400076: 1a 43
+    400078: 1a 44
+    400080: 1a 45
+    400082: 1a 46
+    400084: 1a 47
+    400086: 1a 5
+    400088: 1a 6
+    400090: 1a 7
+    400092: 1a 8
+    400094: 1a 9
+    400096: 1b
+    400098: 1b 1
+    400100: 1b 10
+    400102: 1b 11
+    400104: 1b 12
+    400106: 1b 13
+    400108: 1b 14
+    400110: 1b 15
+    400112: 1b 16
+    400114: 1b 17
+    400116: 1b 18
+    400118: 1b 19
+    400120: 1b 2
+    400122: 1b 20
+    400124: 1b 21
+    400126: 1b 22
+    400128: 1b 23
+    400130: 1b 3
+    400132: 1b 4
+    400134: 1b 5
+    400136: 1b 6
+    400138: 1b 7
+    400140: 1b 8
+    400142: 1b 9
+    400144: 2h
+    400146: 2h 1
+    400148: 2h 2
+    400150: 2h 3
+    400152: 2h 4
+    400154: 2h 5
+    400156: 2v
+    400158: 2v 1
+    400160: Almacen
+    400162: Caixa Registradora
+    400164: clave la hoguera
+    400166: clave la hoguera 1
+    400168: clave la hoguera 2
+    400170: clave la hoguera 3
+    400172: CORTINA SEDA
+    400174: Cortina tecido
+    400176: d&b E12
+    400178: d&b E12 1
+    400180: d&b E12 2
+    400182: d&b E12 3
+    400184: Door handle
+    400186: Door-closer
+    400188: Door-closer 1
+    400190: door-handle
+    400192: Door-latch
+    400194: Door-latch 1
+    400196: Door-lever
+    400198: Door-lever 1
+    400200: Door-lever 2
+    400202: Door-lever 3
+    400204: Door-seals
+    400206: Door-seals 1
+    400208: DoorHinge 5knuckle3.5inch
+    400210: DoorHinge 5knuckle3.5inch 1
+    400212: DoorHinge 5knuckle3.5inch 2
+    400214: DoorHinge 5knuckle3.5inch 3
+    400216: DoorHinge 5knuckle3.5inch 4
+    400218: DoorHinge 5knuckle3.5inch 5
+    400220: el karaoke
+    400222: Faceplate w/ locking pin notch
+    400224: Faceplate w/ locking pin notch 1
+    400226: Glass door
+    400228: Group 14
+    400230: Group 16
+    400232: Group 179
+    400234: Group 181
+    400236: Group 197
+    400238: Group 201
+    400240: Group 255
+    400242: Group 265
+    400244: Group 270
+    400246: Group 272
+    400248: Group 297
+    400250: Group 300
+    400252: Group 302
+    400254: Group 304
+    400256: Group 306
+    400258: Group 315
+    400260: Group 317
+    400262: Group 319
+    400264: Group 321
+    400266: Group 324
+    400268: Group 326
+    400270: Group 328
+    400272: Group 330
+    400274: Group 332
+    400276: Group 342
+    400278: Group 344
+    400280: Group 346
+    400282: Group 348
+    400284: Group 370
+    400286: Group 373
+    400288: Group 375
+    400290: Group 377
+    400292: Group 379
+    400294: Group 388
+    400296: Group 390
+    400298: Group 392
+    400300: Group 394
+    400302: Group 397
+    400304: Group 399
+    400306: Group 401
+    400308: Group 403
+    400310: Group 405
+    400312: Group 415
+    400314: Group 417
+    400316: Group 419
+    400318: Group 421
+    400320: Group 440
+    400322: Group 442
+    400324: guitarra ok
+    400326: High Stool
+    400328: HMK Frame
+    400330: HMK Frame 1
+    400332: Interior commercial office door.
+    400334: Interior commercial office door. 1
+    400336: la hoguera
+    400338: la hoguera#1
+    400340: Lap Top style apple
+    400342: Latch
+    400344: Latch - Assembly (2 3_4in throw)
+    400346: Latch - Assembly (2 3_4in throw) 1
+    400348: Latch - Faceplate
+    400350: Latch - Faceplate 1
+    400352: Latch - Faceplate with locking pin
+    400354: Latch - Faceplate with locking pin 1
+    400356: Latch - Subassembly
+    400358: Latch - Subassembly 1
+    400360: Latch 1
+    400362: //RootNode
+    400364: Locking Pin
+    400366: Locking Pin 1
+    400368: manilla
+    400370: Mesa alta de bar mod.4036
+    400372: Mesa alta de bar mod.4036 1
+    400374: Mesa alta de bar mod.4036 2
+    400376: Metal Stool
+    400378: Metal Stool 1
+    400380: Metal Stool 1_MeshPart0
+    400382: Metal Stool 1_MeshPart1
+    400384: Metal Stool 1_MeshPart2
+    400386: Metal Stool 2
+    400388: Metal Stool 2_MeshPart0
+    400390: Metal Stool 2_MeshPart1
+    400392: Metal Stool 2_MeshPart2
+    400394: Metal Stool 3
+    400396: Metal Stool 3_MeshPart0
+    400398: Metal Stool 3_MeshPart1
+    400400: Metal Stool 3_MeshPart2
+    400402: Metal Stool 4
+    400404: Metal Stool 4_MeshPart0
+    400406: Metal Stool 4_MeshPart1
+    400408: Metal Stool 4_MeshPart2
+    400410: Metal Stool 5
+    400412: Metal Stool 5_MeshPart0
+    400414: Metal Stool 5_MeshPart1
+    400416: Metal Stool 5_MeshPart2
+    400418: Metal Stool 6
+    400420: Metal Stool 6_MeshPart0
+    400422: Metal Stool 6_MeshPart1
+    400424: Metal Stool 6_MeshPart2
+    400426: Metal Stool_MeshPart0
+    400428: Metal Stool_MeshPart1
+    400430: Metal Stool_MeshPart2
+    400432: plancha
+    400434: pub - karaoke
+    400436: Screw Head - Philips 0.25in Recessed
+    400438: Screw Head - Philips 0.25in Recessed 1
+    400440: Screw Head - Philips 0.25in Recessed 2
+    400442: Screw Head - Philips 0.25in Recessed 3
+    400444: Screw Head - Philips 0.25in Recessed 4
+    400446: Screw Head - Philips 0.25in Recessed 5
+    400448: Screw Head - Philips 0.25in Recessed 6
+    400450: Screw Head - Philips 0.25in Recessed 7
+    400452: Simple Barstool
+    400454: Simple Barstool#1
+    400456: Simple Barstool#1 1
+    400458: Simple Barstool#1 2
+    400460: Simple Barstool#2
+    400462: Simple Barstool#3
+    400464: Simple Barstool#3 1
+    400466: Simple Barstool#4
+    400468: Simple Barstool#4 1
+    400470: Simple Barstool#4 2
+    400472: Simple Barstool#5
+    400474: Simple Barstool#5 1
+    400476: Simple Barstool#5 2
+    400478: Simple Barstool#5 3
+    400480: Simple Barstool#6
+    400482: Simple Barstool#6 1
+    400484: Simple Barstool#7
+    400486: Simple Barstool#7 1
+    400488: Simple Barstool#7 2
+    400490: Simple Barstool#7 3
+    400492: Simple Barstool#8
+    400494: Simple Barstool#8 1
+    400496: Simple Barstool#8 2
+    400498: skp399
+    400500: Strike Plate
+    400502: Strike Plate 1
+    400504: Strikeplate, Door Latch
+    400506: Strikeplate, Door Latch 1
+    400508: Taburete
+    400510: Taburete 1
+    400512: tul
+    400514: tul_MeshPart0
+    400516: tul_MeshPart1
+    400518: tul_MeshPart2
+    400520: YAMAHA MG82CX
+    2300000: 1a
+    2300002: 1a 1
+    2300004: 1a 10
+    2300006: 1a 11
+    2300008: 1a 12
+    2300010: 1a 13
+    2300012: 1a 14
+    2300014: 1a 15
+    2300016: 1a 16
+    2300018: 1a 17
+    2300020: 1a 18
+    2300022: 1a 19
+    2300024: 1a 2
+    2300026: 1a 20
+    2300028: 1a 21
+    2300030: 1a 22
+    2300032: 1a 23
+    2300034: 1a 24
+    2300036: 1a 25
+    2300038: 1a 26
+    2300040: 1a 27
+    2300042: 1a 28
+    2300044: 1a 29
+    2300046: 1a 3
+    2300048: 1a 30
+    2300050: 1a 31
+    2300052: 1a 32
+    2300054: 1a 33
+    2300056: 1a 34
+    2300058: 1a 35
+    2300060: 1a 36
+    2300062: 1a 37
+    2300064: 1a 38
+    2300066: 1a 39
+    2300068: 1a 4
+    2300070: 1a 40
+    2300072: 1a 41
+    2300074: 1a 42
+    2300076: 1a 43
+    2300078: 1a 44
+    2300080: 1a 45
+    2300082: 1a 46
+    2300084: 1a 47
+    2300086: 1a 5
+    2300088: 1a 6
+    2300090: 1a 7
+    2300092: 1a 8
+    2300094: 1a 9
+    2300096: 1b
+    2300098: 1b 1
+    2300100: 1b 10
+    2300102: 1b 11
+    2300104: 1b 12
+    2300106: 1b 13
+    2300108: 1b 14
+    2300110: 1b 15
+    2300112: 1b 16
+    2300114: 1b 17
+    2300116: 1b 18
+    2300118: 1b 19
+    2300120: 1b 2
+    2300122: 1b 20
+    2300124: 1b 21
+    2300126: 1b 22
+    2300128: 1b 23
+    2300130: 1b 3
+    2300132: 1b 4
+    2300134: 1b 5
+    2300136: 1b 6
+    2300138: 1b 7
+    2300140: 1b 8
+    2300142: 1b 9
+    2300144: 2h
+    2300146: 2h 1
+    2300148: 2h 2
+    2300150: 2h 3
+    2300152: 2h 4
+    2300154: 2h 5
+    2300156: 2v
+    2300158: 2v 1
+    2300160: Almacen
+    2300162: clave la hoguera
+    2300164: clave la hoguera 1
+    2300166: clave la hoguera 2
+    2300168: clave la hoguera 3
+    2300170: d&b E12
+    2300172: d&b E12 1
+    2300174: d&b E12 2
+    2300176: d&b E12 3
+    2300178: Door-lever
+    2300180: Door-lever 1
+    2300182: Door-lever 2
+    2300184: Door-lever 3
+    2300186: Door-seals
+    2300188: Door-seals 1
+    2300190: el karaoke
+    2300192: Faceplate w/ locking pin notch
+    2300194: Faceplate w/ locking pin notch 1
+    2300196: Glass door
+    2300198: Group 14
+    2300200: Group 16
+    2300202: Group 179
+    2300204: Group 181
+    2300206: Group 197
+    2300208: Group 201
+    2300210: Group 255
+    2300212: Group 265
+    2300214: Group 270
+    2300216: Group 272
+    2300218: Group 297
+    2300220: Group 300
+    2300222: Group 302
+    2300224: Group 304
+    2300226: Group 306
+    2300228: Group 315
+    2300230: Group 317
+    2300232: Group 319
+    2300234: Group 321
+    2300236: Group 324
+    2300238: Group 326
+    2300240: Group 328
+    2300242: Group 330
+    2300244: Group 332
+    2300246: Group 342
+    2300248: Group 344
+    2300250: Group 346
+    2300252: Group 348
+    2300254: Group 370
+    2300256: Group 373
+    2300258: Group 375
+    2300260: Group 377
+    2300262: Group 379
+    2300264: Group 388
+    2300266: Group 390
+    2300268: Group 392
+    2300270: Group 394
+    2300272: Group 397
+    2300274: Group 399
+    2300276: Group 401
+    2300278: Group 403
+    2300280: Group 405
+    2300282: Group 415
+    2300284: Group 417
+    2300286: Group 419
+    2300288: Group 421
+    2300290: Group 440
+    2300292: Group 442
+    2300294: guitarra ok
+    2300296: HMK Frame
+    2300298: HMK Frame 1
+    2300300: Interior commercial office door.
+    2300302: Interior commercial office door. 1
+    2300304: la hoguera
+    2300306: la hoguera#1
+    2300308: Lap Top style apple
+    2300310: Latch
+    2300312: Latch - Faceplate
+    2300314: Latch - Faceplate 1
+    2300316: Latch 1
+    2300318: //RootNode
+    2300320: Locking Pin
+    2300322: Locking Pin 1
+    2300324: manilla
+    2300326: Metal Stool 1_MeshPart0
+    2300328: Metal Stool 1_MeshPart1
+    2300330: Metal Stool 1_MeshPart2
+    2300332: Metal Stool 2_MeshPart0
+    2300334: Metal Stool 2_MeshPart1
+    2300336: Metal Stool 2_MeshPart2
+    2300338: Metal Stool 3_MeshPart0
+    2300340: Metal Stool 3_MeshPart1
+    2300342: Metal Stool 3_MeshPart2
+    2300344: Metal Stool 4_MeshPart0
+    2300346: Metal Stool 4_MeshPart1
+    2300348: Metal Stool 4_MeshPart2
+    2300350: Metal Stool 5_MeshPart0
+    2300352: Metal Stool 5_MeshPart1
+    2300354: Metal Stool 5_MeshPart2
+    2300356: Metal Stool 6_MeshPart0
+    2300358: Metal Stool 6_MeshPart1
+    2300360: Metal Stool 6_MeshPart2
+    2300362: Metal Stool_MeshPart0
+    2300364: Metal Stool_MeshPart1
+    2300366: Metal Stool_MeshPart2
+    2300368: plancha
+    2300370: pub - karaoke
+    2300372: Screw Head - Philips 0.25in Recessed
+    2300374: Screw Head - Philips 0.25in Recessed 1
+    2300376: Screw Head - Philips 0.25in Recessed 2
+    2300378: Screw Head - Philips 0.25in Recessed 3
+    2300380: Screw Head - Philips 0.25in Recessed 4
+    2300382: Screw Head - Philips 0.25in Recessed 5
+    2300384: Screw Head - Philips 0.25in Recessed 6
+    2300386: Screw Head - Philips 0.25in Recessed 7
+    2300388: Simple Barstool
+    2300390: Simple Barstool#1
+    2300392: Simple Barstool#1 1
+    2300394: Simple Barstool#1 2
+    2300396: Simple Barstool#2
+    2300398: Simple Barstool#3
+    2300400: Simple Barstool#3 1
+    2300402: Simple Barstool#4
+    2300404: Simple Barstool#4 1
+    2300406: Simple Barstool#4 2
+    2300408: Simple Barstool#5
+    2300410: Simple Barstool#5 1
+    2300412: Simple Barstool#5 2
+    2300414: Simple Barstool#5 3
+    2300416: Simple Barstool#6
+    2300418: Simple Barstool#6 1
+    2300420: Simple Barstool#7
+    2300422: Simple Barstool#7 1
+    2300424: Simple Barstool#7 2
+    2300426: Simple Barstool#7 3
+    2300428: Simple Barstool#8
+    2300430: Simple Barstool#8 1
+    2300432: Simple Barstool#8 2
+    2300434: Strike Plate
+    2300436: Strike Plate 1
+    2300438: tul_MeshPart0
+    2300440: tul_MeshPart1
+    2300442: tul_MeshPart2
+    2300444: YAMAHA MG82CX
+    3300000: 1a
+    3300002: 1a 1
+    3300004: 1a 10
+    3300006: 1a 11
+    3300008: 1a 12
+    3300010: 1a 13
+    3300012: 1a 14
+    3300014: 1a 15
+    3300016: 1a 16
+    3300018: 1a 17
+    3300020: 1a 18
+    3300022: 1a 19
+    3300024: 1a 2
+    3300026: 1a 20
+    3300028: 1a 21
+    3300030: 1a 22
+    3300032: 1a 23
+    3300034: 1a 24
+    3300036: 1a 25
+    3300038: 1a 26
+    3300040: 1a 27
+    3300042: 1a 28
+    3300044: 1a 29
+    3300046: 1a 3
+    3300048: 1a 30
+    3300050: 1a 31
+    3300052: 1a 32
+    3300054: 1a 33
+    3300056: 1a 34
+    3300058: 1a 35
+    3300060: 1a 36
+    3300062: 1a 37
+    3300064: 1a 38
+    3300066: 1a 39
+    3300068: 1a 4
+    3300070: 1a 40
+    3300072: 1a 41
+    3300074: 1a 42
+    3300076: 1a 43
+    3300078: 1a 44
+    3300080: 1a 45
+    3300082: 1a 46
+    3300084: 1a 47
+    3300086: 1a 5
+    3300088: 1a 6
+    3300090: 1a 7
+    3300092: 1a 8
+    3300094: 1a 9
+    3300096: 1b
+    3300098: 1b 1
+    3300100: 1b 10
+    3300102: 1b 11
+    3300104: 1b 12
+    3300106: 1b 13
+    3300108: 1b 14
+    3300110: 1b 15
+    3300112: 1b 16
+    3300114: 1b 17
+    3300116: 1b 18
+    3300118: 1b 19
+    3300120: 1b 2
+    3300122: 1b 20
+    3300124: 1b 21
+    3300126: 1b 22
+    3300128: 1b 23
+    3300130: 1b 3
+    3300132: 1b 4
+    3300134: 1b 5
+    3300136: 1b 6
+    3300138: 1b 7
+    3300140: 1b 8
+    3300142: 1b 9
+    3300144: 2h
+    3300146: 2h 1
+    3300148: 2h 2
+    3300150: 2h 3
+    3300152: 2h 4
+    3300154: 2h 5
+    3300156: 2v
+    3300158: 2v 1
+    3300160: Almacen
+    3300162: clave la hoguera
+    3300164: clave la hoguera 1
+    3300166: clave la hoguera 2
+    3300168: clave la hoguera 3
+    3300170: d&b E12
+    3300172: d&b E12 1
+    3300174: d&b E12 2
+    3300176: d&b E12 3
+    3300178: Door-lever
+    3300180: Door-lever 1
+    3300182: Door-lever 2
+    3300184: Door-lever 3
+    3300186: Door-seals
+    3300188: Door-seals 1
+    3300190: el karaoke
+    3300192: Faceplate w/ locking pin notch
+    3300194: Faceplate w/ locking pin notch 1
+    3300196: Glass door
+    3300198: Group 14
+    3300200: Group 16
+    3300202: Group 179
+    3300204: Group 181
+    3300206: Group 197
+    3300208: Group 201
+    3300210: Group 255
+    3300212: Group 265
+    3300214: Group 270
+    3300216: Group 272
+    3300218: Group 297
+    3300220: Group 300
+    3300222: Group 302
+    3300224: Group 304
+    3300226: Group 306
+    3300228: Group 315
+    3300230: Group 317
+    3300232: Group 319
+    3300234: Group 321
+    3300236: Group 324
+    3300238: Group 326
+    3300240: Group 328
+    3300242: Group 330
+    3300244: Group 332
+    3300246: Group 342
+    3300248: Group 344
+    3300250: Group 346
+    3300252: Group 348
+    3300254: Group 370
+    3300256: Group 373
+    3300258: Group 375
+    3300260: Group 377
+    3300262: Group 379
+    3300264: Group 388
+    3300266: Group 390
+    3300268: Group 392
+    3300270: Group 394
+    3300272: Group 397
+    3300274: Group 399
+    3300276: Group 401
+    3300278: Group 403
+    3300280: Group 405
+    3300282: Group 415
+    3300284: Group 417
+    3300286: Group 419
+    3300288: Group 421
+    3300290: Group 440
+    3300292: Group 442
+    3300294: guitarra ok
+    3300296: HMK Frame
+    3300298: HMK Frame 1
+    3300300: Interior commercial office door.
+    3300302: Interior commercial office door. 1
+    3300304: la hoguera
+    3300306: la hoguera#1
+    3300308: Lap Top style apple
+    3300310: Latch
+    3300312: Latch - Faceplate
+    3300314: Latch - Faceplate 1
+    3300316: Latch 1
+    3300318: //RootNode
+    3300320: Locking Pin
+    3300322: Locking Pin 1
+    3300324: manilla
+    3300326: Metal Stool 1_MeshPart0
+    3300328: Metal Stool 1_MeshPart1
+    3300330: Metal Stool 1_MeshPart2
+    3300332: Metal Stool 2_MeshPart0
+    3300334: Metal Stool 2_MeshPart1
+    3300336: Metal Stool 2_MeshPart2
+    3300338: Metal Stool 3_MeshPart0
+    3300340: Metal Stool 3_MeshPart1
+    3300342: Metal Stool 3_MeshPart2
+    3300344: Metal Stool 4_MeshPart0
+    3300346: Metal Stool 4_MeshPart1
+    3300348: Metal Stool 4_MeshPart2
+    3300350: Metal Stool 5_MeshPart0
+    3300352: Metal Stool 5_MeshPart1
+    3300354: Metal Stool 5_MeshPart2
+    3300356: Metal Stool 6_MeshPart0
+    3300358: Metal Stool 6_MeshPart1
+    3300360: Metal Stool 6_MeshPart2
+    3300362: Metal Stool_MeshPart0
+    3300364: Metal Stool_MeshPart1
+    3300366: Metal Stool_MeshPart2
+    3300368: plancha
+    3300370: pub - karaoke
+    3300372: Screw Head - Philips 0.25in Recessed
+    3300374: Screw Head - Philips 0.25in Recessed 1
+    3300376: Screw Head - Philips 0.25in Recessed 2
+    3300378: Screw Head - Philips 0.25in Recessed 3
+    3300380: Screw Head - Philips 0.25in Recessed 4
+    3300382: Screw Head - Philips 0.25in Recessed 5
+    3300384: Screw Head - Philips 0.25in Recessed 6
+    3300386: Screw Head - Philips 0.25in Recessed 7
+    3300388: Simple Barstool
+    3300390: Simple Barstool#1
+    3300392: Simple Barstool#1 1
+    3300394: Simple Barstool#1 2
+    3300396: Simple Barstool#2
+    3300398: Simple Barstool#3
+    3300400: Simple Barstool#3 1
+    3300402: Simple Barstool#4
+    3300404: Simple Barstool#4 1
+    3300406: Simple Barstool#4 2
+    3300408: Simple Barstool#5
+    3300410: Simple Barstool#5 1
+    3300412: Simple Barstool#5 2
+    3300414: Simple Barstool#5 3
+    3300416: Simple Barstool#6
+    3300418: Simple Barstool#6 1
+    3300420: Simple Barstool#7
+    3300422: Simple Barstool#7 1
+    3300424: Simple Barstool#7 2
+    3300426: Simple Barstool#7 3
+    3300428: Simple Barstool#8
+    3300430: Simple Barstool#8 1
+    3300432: Simple Barstool#8 2
+    3300434: Strike Plate
+    3300436: Strike Plate 1
+    3300438: tul_MeshPart0
+    3300440: tul_MeshPart1
+    3300442: tul_MeshPart2
+    3300444: YAMAHA MG82CX
+    4300000: Mesh LHPK+compartir
+    4300002: Mesh la hoguera#1
+    4300004: Mesh el karaoke
+    4300006: Mesh Lap Top style apple
+    4300008: Mesh YAMAHA MG82CX
+    4300010: Mesh Group 14
+    4300012: Mesh Group 16
+    4300014: Mesh 2h
+    4300016: Mesh 2h
+    4300018: Mesh 1a
+    4300020: Mesh 2v
+    4300022: Mesh 1b
+    4300024: Mesh 1b
+    4300026: Mesh Group 179
+    4300028: Mesh Group 181
+    4300030: Mesh Metal Stool_MeshPart0
+    4300032: Mesh Metal Stool_MeshPart1
+    4300034: Mesh Metal Stool_MeshPart2
+    4300036: Mesh Metal Stool_MeshPart0
+    4300038: Mesh Metal Stool_MeshPart1
+    4300040: Mesh Metal Stool_MeshPart2
+    4300042: Mesh d&b E12
+    4300044: Mesh Group 197
+    4300046: Mesh d&b E12
+    4300048: Mesh Simple Barstool
+    4300050: Mesh Simple Barstool#1
+    4300052: Mesh Simple Barstool#2
+    4300054: Mesh Simple Barstool#3
+    4300056: Mesh Simple Barstool#4
+    4300058: Mesh Simple Barstool#5
+    4300060: Mesh Simple Barstool#6
+    4300062: Mesh Simple Barstool#7
+    4300064: Mesh Simple Barstool#8
+    4300066: Mesh clave la hoguera
+    4300068: Mesh d&b E12
+    4300070: Mesh clave la hoguera
+    4300072: Mesh pub - karaoke
+    4300074: Mesh la hoguera
+    4300076: Mesh Group 270
+    4300078: Mesh guitarra ok
+    4300080: Mesh clave la hoguera
+    4300082: Mesh plancha
+    4300084: Mesh manilla
+    4300086: Mesh Almacen
+    4300088: Mesh tul_MeshPart0
+    4300090: Mesh tul_MeshPart1
+    4300092: Mesh tul_MeshPart2
+    4300094: Mesh Glass door
+    4300096: Mesh Interior commercial office door.
+    4300098: Mesh HMK Frame
+    4300100: Mesh Group 297
+    4300102: Mesh Group 300
+    4300104: Mesh Group 304
+    4300106: Mesh Group 306
+    4300108: Mesh Door-lever
+    4300110: Mesh Door-seals
+    4300112: Mesh Group 324
+    4300114: Mesh Group 326
+    4300116: Mesh Group 328
+    4300118: Mesh Group 330
+    4300120: Mesh Group 332
+    4300122: Mesh Strike Plate
+    4300124: Mesh Screw Head - Philips 0.25in Recessed
+    4300126: Mesh Latch
+    4300128: Mesh Locking Pin
+    4300130: Mesh Faceplate w/ locking pin notch
+    4300132: Mesh Latch - Faceplate
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
