@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 9606c5cea6293b8459ffac348f2380f3
+timeCreated: 1455762065
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000120000001300000014000000150000001600000017000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1bfade4e2538315ca3afcead1873de70
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.33291847, y: 3.8583133, z: 4.72053}
+      lookAt: {x: 1.4815439, y: 3.062172, z: 2.3392298}
+      up: {x: 0.12527004, y: 0.95752805, z: -0.25970656}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#11
+    100002: Component#11 1
+    100004: Component#12
+    100006: Component#12 1
+    100008: Component#32
+    100010: Component#5
+    100012: Component#5 1
+    100014: Component#9
+    100016: Component#9 1
+    100018: Component#9 2
+    100020: Component#9 3
+    100022: //RootNode
+    400000: Component#11
+    400002: Component#11 1
+    400004: Component#12
+    400006: Component#12 1
+    400008: Component#32
+    400010: Component#5
+    400012: Component#5 1
+    400014: Component#9
+    400016: Component#9 1
+    400018: Component#9 2
+    400020: Component#9 3
+    400022: //RootNode
+    2300000: Component#11
+    2300002: Component#11 1
+    2300004: Component#12
+    2300006: Component#12 1
+    2300008: Component#32
+    2300010: Component#5
+    2300012: Component#5 1
+    2300014: Component#9
+    2300016: Component#9 1
+    2300018: Component#9 2
+    2300020: Component#9 3
+    2300022: //RootNode
+    3300000: Component#11
+    3300002: Component#11 1
+    3300004: Component#12
+    3300006: Component#12 1
+    3300008: Component#32
+    3300010: Component#5
+    3300012: Component#5 1
+    3300014: Component#9
+    3300016: Component#9 1
+    3300018: Component#9 2
+    3300020: Component#9 3
+    3300022: //RootNode
+    4300000: Mesh isotta+fraschini
+    4300002: Mesh Component#5
+    4300004: Mesh Component#9
+    4300006: Mesh Component#11
+    4300008: Mesh Component#12
+    4300010: Mesh Component#32
+    4300012: Mesh ClydeCar
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
