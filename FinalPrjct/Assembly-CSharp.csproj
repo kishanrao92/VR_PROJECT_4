@@ -88,7 +88,8 @@
      <Compile Include="Assets\Scripts\MainSounds.cs" />
      <Compile Include="Assets\Scripts\ShootingController.cs" />
      <Compile Include="Assets\Scripts\SparksController.cs" />
-     <Compile Include="Assets\Wander.cs" />
+     <Compile Include="Assets\StopRemy.cs" />
+     <Compile Include="Assets\TalkRemy.cs" />
      <Compile Include="Assets\iTweenEditor\Examples\StartAndStopTween.cs" />
      <Compile Include="Assets\iTweenEditor\Helper Classes\EventParamMappings.cs" />
      <Compile Include="Assets\iTweenEditor\Helper Classes\Vector3OrTransform.cs" />
