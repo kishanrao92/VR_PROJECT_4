@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
@@ -7,16 +6,6 @@ EndProject
 Project("{7A82E785-5C3B-1BDD-201C-74DA0A07C1B5}") = "FinalPrjct", "Assembly-CSharp.csproj", "{D48AA8DD-D213-4508-48E3-9754A8BB92E7}"
 EndProject
 Project("{7A82E785-5C3B-1BDD-201C-74DA0A07C1B5}") = "FinalPrjct", "Assembly-CSharp-Editor.csproj", "{2FA74277-5FAB-71F9-1EB9-78DE74F382EC}"
-=======
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalPrjct.CSharp.Plugins", "FinalPrjct.CSharp.Plugins.csproj", "{8BE5A8E6-5D53-DF3E-684D-9C67DDAE203F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalPrjct.CSharp", "FinalPrjct.CSharp.csproj", "{AE9D852D-0E05-112B-EC9B-861A89A02CF2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalPrjct.CSharp.Editor", "FinalPrjct.CSharp.Editor.csproj", "{D10E88E0-4CD9-EDB7-F057-CD13C27D1DB9}"
->>>>>>> origin/prtk
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,7 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-<<<<<<< HEAD
 		{C545DCDE-3C0D-05AC-A372-8036C482688C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C545DCDE-3C0D-05AC-A372-8036C482688C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C545DCDE-3C0D-05AC-A372-8036C482688C}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -37,28 +25,11 @@ Global
 		{2FA74277-5FAB-71F9-1EB9-78DE74F382EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FA74277-5FAB-71F9-1EB9-78DE74F382EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FA74277-5FAB-71F9-1EB9-78DE74F382EC}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
-		{8BE5A8E6-5D53-DF3E-684D-9C67DDAE203F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8BE5A8E6-5D53-DF3E-684D-9C67DDAE203F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8BE5A8E6-5D53-DF3E-684D-9C67DDAE203F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8BE5A8E6-5D53-DF3E-684D-9C67DDAE203F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AE9D852D-0E05-112B-EC9B-861A89A02CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AE9D852D-0E05-112B-EC9B-861A89A02CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AE9D852D-0E05-112B-EC9B-861A89A02CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AE9D852D-0E05-112B-EC9B-861A89A02CF2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D10E88E0-4CD9-EDB7-F057-CD13C27D1DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D10E88E0-4CD9-EDB7-F057-CD13C27D1DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D10E88E0-4CD9-EDB7-F057-CD13C27D1DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D10E88E0-4CD9-EDB7-F057-CD13C27D1DB9}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> origin/prtk
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-<<<<<<< HEAD
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
-=======
->>>>>>> origin/prtk
 EndGlobal

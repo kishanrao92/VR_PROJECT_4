@@ -76,7 +76,19 @@
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\CardboardiOSDevice.cs" />
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\UnityEditorDevice.cs" />
      <Compile Include="Assets\PlayMusic.cs" />
-<<<<<<< HEAD
+     <Compile Include="Assets\Scripts\FinalTrigger.cs" />
+     <Compile Include="Assets\Scripts\GameController.cs" />
+     <Compile Include="Assets\Scripts\GunController.cs" />
+     <Compile Include="Assets\Scripts\GunsBank.cs" />
+     <Compile Include="Assets\Scripts\HitController.cs" />
+     <Compile Include="Assets\Scripts\HitsBank.cs" />
+     <Compile Include="Assets\Scripts\HoleDestroy.cs" />
+     <Compile Include="Assets\Scripts\HoleFade.cs" />
+     <Compile Include="Assets\Scripts\Initalising.cs" />
+     <Compile Include="Assets\Scripts\MainSounds.cs" />
+     <Compile Include="Assets\Scripts\ShootingController.cs" />
+     <Compile Include="Assets\Scripts\SparksController.cs" />
+     <Compile Include="Assets\Wander.cs" />
      <Compile Include="Assets\iTweenEditor\Examples\StartAndStopTween.cs" />
      <Compile Include="Assets\iTweenEditor\Helper Classes\EventParamMappings.cs" />
      <Compile Include="Assets\iTweenEditor\Helper Classes\Vector3OrTransform.cs" />
@@ -88,12 +100,6 @@
      <None Include="Assets\Cardboard\Distortion\CardboardDistortion.cginc" />
      <None Include="Assets\Cardboard\Resources\UnlitTexture.shader" />
      <None Include="Assets\iTweenEditor\README.txt" />
-=======
-     <Compile Include="Assets\Wander.cs" />
-     <None Include="Assets\Cardboard\Resources\SkyboxMesh.shader" />
-     <None Include="Assets\Cardboard\Distortion\CardboardDistortion.cginc" />
-     <None Include="Assets\Cardboard\Resources\UnlitTexture.shader" />
->>>>>>> origin/prtk
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Cardboard\Resources\UI\CardboardReticleShader.shader" />
      <None Include="Assets\Cardboard\Resources\SolidColor.shader" />
