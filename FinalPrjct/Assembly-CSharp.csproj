@@ -75,7 +75,10 @@
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\CardboardAndroidDevice.cs" />
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\CardboardiOSDevice.cs" />
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\UnityEditorDevice.cs" />
-     <Compile Include="Assets\PlayMusic.cs" />
+     <Compile Include="Assets\Scripts\Autowalk.cs" />
+     <Compile Include="Assets\Scripts\Cam.cs" />
+     <Compile Include="Assets\Scripts\CameraController.cs" />
+     <Compile Include="Assets\Scripts\DM1.cs" />
      <Compile Include="Assets\Scripts\FinalTrigger.cs" />
      <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\GunController.cs" />
@@ -86,10 +89,12 @@
      <Compile Include="Assets\Scripts\HoleFade.cs" />
      <Compile Include="Assets\Scripts\Initalising.cs" />
      <Compile Include="Assets\Scripts\MainSounds.cs" />
+     <Compile Include="Assets\Scripts\MoveStef.cs" />
+     <Compile Include="Assets\Scripts\PlayMusic.cs" />
      <Compile Include="Assets\Scripts\ShootingController.cs" />
      <Compile Include="Assets\Scripts\SparksController.cs" />
-     <Compile Include="Assets\StopRemy.cs" />
-     <Compile Include="Assets\TalkRemy.cs" />
+     <Compile Include="Assets\Scripts\StopRemy.cs" />
+     <Compile Include="Assets\Scripts\TalkRemy.cs" />
      <Compile Include="Assets\iTweenEditor\Examples\StartAndStopTween.cs" />
      <Compile Include="Assets\iTweenEditor\Helper Classes\EventParamMappings.cs" />
      <Compile Include="Assets\iTweenEditor\Helper Classes\Vector3OrTransform.cs" />
@@ -97,6 +102,7 @@
      <Compile Include="Assets\iTweenEditor\iTween.cs" />
      <Compile Include="Assets\iTweenEditor\iTweenEvent.cs" />
      <Compile Include="Assets\iTweenEditor\iTweenPath.cs" />
+     <Compile Include="Assets\test.cs" />
      <None Include="Assets\Cardboard\Resources\SkyboxMesh.shader" />
      <None Include="Assets\Cardboard\Distortion\CardboardDistortion.cginc" />
      <None Include="Assets\Cardboard\Resources\UnlitTexture.shader" />
